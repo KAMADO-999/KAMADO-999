@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python,Html,Css,JavaScript,Nodejs,React,Mongodb**
 
-- 💬 Ask me about **React native**
+- 💬 Ask me about **what you want**
 
 - 📫 How to reach me **kamado.official.99@gmail.com**
 
