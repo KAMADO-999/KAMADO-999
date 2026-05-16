@@ -1,104 +1,95 @@
-<h1 align="center">Hey 👋 Welcome</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
-###
+<div id="header" align="center">
+
+<h1>Hey there, Aditya this side! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="GIF"></h1>
+
+</div>
+
+<br>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=true&text=ADITYA%20SRIVASTAVA&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
-###
+### 💫 About Me
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" align="center" /> I'm a **Student** and **Web Developer**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" align="center" /> I'm currently working on **Web Development** and **DSA**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" align="center" /> I'm currently learning **DevOps** and **Next.js**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" align="center" /> I'm eager to collaborate with **Open Source Enthusiasts** and **Developers**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" align="center" /> **2025 Goals:** Learn **DevOps**, **Next.js** and strengthen **DSA**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" align="center" /> Working from **Home**
+
+<br>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="40" align="center" /> Let's Connect!</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_tarun_901_?igsh=MTVjaDVwZWJnczNzZw==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastava-4ba9b5324?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adityasrv007)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adityasrivast115)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wiervfaq-the-selector)
+
 </div>
 
-###
+<br>
+
+<h2><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="40" height="40" align="center" /> Tools & Technology</h2>
 
 <div align="center">
-  <a href="https://dribbble.com/adityasrivastava2120" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/adityasrivast115" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  </a>
-  <a href="https://codepen.io/wiervfaq-the-selector" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-  <a href="https://t.me/Adityasrv007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/aditya-srivastava-4ba9b5324" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="https://www.instagram.com/https_tarun_901_?igsh=MTVjaDVwZWJnczNzZw==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,python,java,cpp,mongodb,mysql,git,github,figma,linux&perline=9" />
+
 </div>
 
-###
+<br>
+
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="40" align="center" /> GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://count.getloli.com/@:KAMADO-999?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAMADO-999&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAMADO-999&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAMADO-999&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAMADO-999&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAMADO-999&theme=radical&utcOffset=5.5">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5">
+
 </div>
 
-###
+<br>
+
+<h2>📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAMADO-999&show_icons=true&theme=tokyonight" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAMADO-999&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMADO-999&theme=redical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
+
 </div>
 
-###
+<br>
 
-<img align="right" height="286" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFlZDM4MjYzM2JmYjZ1aTlheXo4cGd1bmlxdGFweHllOWtwbGZkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+<div align="center">
 
-###
+<h2>🏆 GitHub Trophies</h2>
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app/?username=KAMADO-999&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+
+<br>
+
+![pacman contribution graph](https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/pacman-output/pacman-contribution-graph.svg)
+
 </div>
 
-###
+<hr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/pacman-output/pacman-contribution-graph.svg">
-</picture>
+### 🎎 Visitors count:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAMADO-999&label=Profile%20views&color=0e75b6&style=flat" alt="KAMADO-999" /> </p>
 
-###
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
