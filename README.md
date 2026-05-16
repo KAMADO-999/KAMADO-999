@@ -77,8 +77,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAMADO-999&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KAMADO-999&theme=tokyonight&row=1&column=6" height="150" alt="trophy graph" />
 </div>
 
 ###
