@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+<img width=100% src="./header_M.png" alt="Header"/>
 
 <div id="header" align="center">
 
@@ -16,7 +16,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" align="center" /> I'm a **Student** and **Web Developer**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" align="center" /> I'm currently working on **Web Development** and **DSA**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" align="center" /> I'm currently learning **DevOps** and **Next.js**
+- 🌱 I'm currently learning **DevOps** and **Next.js**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" align="center" /> I'm eager to collaborate with **Open Source Enthusiasts** and **Developers**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" align="center" /> **2025 Goals:** Learn **DevOps**, **Next.js** and strengthen **DSA**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" align="center" /> Working from **Home**
@@ -56,7 +56,7 @@
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAMADO-999&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAMADO-999&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAMADO-999&theme=radical&utcOffset=5.5">
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="166em" src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5">
 
 </div>
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMADO-999&theme=redical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMADO-999&theme=radical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
 
 </div>
 
@@ -88,7 +88,7 @@
 <hr>
 
 ### 🎎 Visitors count:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAMADO-999&label=Profile%20views&color=0e75b6&style=flat" alt="KAMADO-999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAMADO-999&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="KAMADO-999" /> </p>
 
 <br>
 
