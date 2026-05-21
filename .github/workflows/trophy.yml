@@ -11,15 +11,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@master
+        uses: ryo-ma/github-profile-trophy@v1.2.1
         with:
           username: ${{ github.repository_owner }}
           theme: radical
-          no-frame: false
-          no-bg: false
-          margin-w: 8
+          output_path: dist
       - name: Push to trophy-output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
