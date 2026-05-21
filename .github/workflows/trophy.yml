@@ -1,35 +1,27 @@
 name: Generate Trophy
-
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@main
+        uses: ryo-ma/github-profile-trophy@v1.3.0
         with:
           username: ${{ github.repository_owner }}
-          theme: darkhub
+          theme: radical
           no-frame: false
           no-bg: false
           margin-w: 8
-
       - name: Push to trophy-output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
