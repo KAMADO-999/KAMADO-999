@@ -12,8 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
       - name: Generate Trophy
         uses: ryo-ma/github-profile-trophy@v1.3.0
         with:
@@ -26,6 +24,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: trophy-output
-          build_dir: .
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
