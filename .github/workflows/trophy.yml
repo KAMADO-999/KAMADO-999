@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@v1.3.0
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
           theme: radical
