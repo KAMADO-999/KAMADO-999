@@ -14,7 +14,7 @@
 
 ### 💫 About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" align="center" /> I'm a **Student** and **Web Developer**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" align="center" /> I'm a **CS Student** exploring **Web Dev**, **DSA** & **AI/ML**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" align="center" /> I'm currently working on **Web Development** and **DSA**
 - 🌱 I'm currently learning **DevOps** and **Next.js**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" align="center" /> I'm eager to collaborate with **Open Source Enthusiasts** and **Developers**
@@ -27,8 +27,8 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_tarun_901_?igsh=MTVjaDVwZWJnczNzZw==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastava-4ba9b5324?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https_tarun_901_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastava-4ba9b5324)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Adityasrv007)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/adityasrivast115)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/wiervfaq-the-selector)
@@ -37,7 +37,7 @@
 
 <br>
 
-<h2><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="40" height="40" align="center" /> Tools & Technology</h2>
+<h2>🛠️ Tools & Technology</h2>
 
 <div align="center">
 
@@ -56,8 +56,8 @@
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAMADO-999&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAMADO-999&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAMADO-999&theme=radical&utcOffset=5.5">
-<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="166em" src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5">
+<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="166em" src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&count_private=true">
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <h2>🏆 GitHub Trophies</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=KAMADO-999&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=KAMADO-999&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 <br>
 
