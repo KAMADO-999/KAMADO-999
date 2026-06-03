@@ -55,7 +55,7 @@
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAMADO-999&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAMADO-999&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAMADO-999&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KAMADO-999&theme=radical&utcOffset=5.5">
+<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KAMADO-999&layout=donut&theme=radical&hide_border=false&count_private=true">
 <img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <img height="166em" src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&count_private=true">
 
