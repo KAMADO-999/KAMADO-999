@@ -51,13 +51,13 @@
 
 <div align="center">
 
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KAMADO-999&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KAMADO-999&theme=radical">
-<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KAMADO-999&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KAMADO-999&theme=radical">
-<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KAMADO-999&layout=donut&theme=radical&hide_border=false&count_private=true">
-<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=KAMADO-999&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-<img height="166em" src="https://streak-stats.demolab.com?user=KAMADO-999&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&count_private=true">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-srivastava010&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-srivastava010&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-srivastava010&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-srivastava010&theme=radical">
+<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aditya-srivastava010&layout=donut&theme=radical&hide_border=false&count_private=true">
+<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=aditya-srivastava010&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="166em" src="https://streak-stats.demolab.com?user=aditya-srivastava010&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&count_private=true">
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMADO-999&theme=radical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-srivastava010&theme=radical&bg_color=141321&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=false" width="100%"/>
 
 </div>
 
@@ -77,18 +77,18 @@
 
 <h2>🏆 GitHub Trophies</h2>
 
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=KAMADO-999&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=aditya-srivastava010&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 <br>
 
-![pacman contribution graph](https://raw.githubusercontent.com/KAMADO-999/KAMADO-999/pacman-output/pacman-contribution-graph.svg)
+![pacman contribution graph](https://raw.githubusercontent.com/aditya-srivastava010/aditya-srivastava010/pacman-output/pacman-contribution-graph.svg)
 
 </div>
 
 <hr>
 
 ### 🎎 Visitors count:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KAMADO-999&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="KAMADO-999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-srivastava010&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="aditya-srivastava010" /> </p>
 
 <br>
 
