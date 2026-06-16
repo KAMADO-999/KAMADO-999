@@ -16,9 +16,9 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" align="center" /> I'm a **CS Student** exploring **Web Dev**, **DSA** & **AI/ML**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" align="center" /> I'm currently working on **Web Development** and **DSA**
-- 🌱 I'm currently learning **DevOps** and **Next.js**
+- 🌱 I'm currently learning **DSA-JAVA** and **Next.js**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" align="center" /> I'm eager to collaborate with **Open Source Enthusiasts** and **Developers**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" align="center" /> **2025 Goals:** Learn **DevOps**, **Next.js** and strengthen **DSA**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="25" align="center" /> **2026 Goals:** Learn **DevOps**, **Next.js** and strengthen **DSA**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" align="center" /> Working from **Home**
 
 <br>
